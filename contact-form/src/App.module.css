@@ -1,0 +1,6 @@
+.main_container {
+	width: 100%;
+	height: 100vh;
+	background-color: #a0d5eb;
+	background: linear-gradient(to bottom, #a0d5eb, #7ebed9);
+}
